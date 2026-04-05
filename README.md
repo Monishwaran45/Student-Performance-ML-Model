@@ -1,13 +1,13 @@
-# 🎓 Student Performance ML Model
+# Student Performance ML Model
 
-## 📌 Overview
+## Overview
 
 This project predicts student academic performance using Machine Learning algorithms.
 It analyzes various factors such as study time, attendance, and other attributes to estimate student scores and performance trends.
 
 ---
 
-## 🚀 Features
+## Features
 
 * 📊 Data preprocessing and cleaning
 * 📈 Exploratory Data Analysis (EDA) using visualizations
@@ -17,7 +17,7 @@ It analyzes various factors such as study time, attendance, and other attributes
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python 🐍
 * NumPy
@@ -42,20 +42,13 @@ Student-Performance-ML/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/student-performance-ml.git
 cd student-performance-ml
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-```bash
-python src/model.py
+uv init
+uv add requirements.txt
 ```
 
 ---
